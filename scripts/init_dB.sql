@@ -16,6 +16,9 @@ go
 
 -- create schemas Bronze , Silver , Gold 
 
+use Datawarehouse
+go
+
 Create SCHEMA Bronze 
 go
 
